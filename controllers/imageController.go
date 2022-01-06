@@ -26,6 +26,6 @@ func Upload(c *fiber.Ctx) error {
 	}
 	fmt.Println("file", filename)
 	return c.JSON(fiber.Map{
-		"url": "http://localhost:8000/api/uploads/" + filename,
+		"url": "http://localhost:5000/api/uploads/" + filename,
 	})
 }
