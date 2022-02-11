@@ -1,0 +1,207 @@
+GET Data
+categories	
+array:6 [▶]
+min_price	
+"55"
+max_price	
+"20955"
+filter_2	
+""
+filter_1	
+""
+filter_4	
+""
+POST Data empty
+Files empty
+Cookies
+_ga	
+"GA1.3.1321896384.1637935159"
+_hjSessionUser_1393628	
+"eyJpZCI6ImI2NGNjYmQ3LTFjYmItNWEyYy04N2VlLWRjNDRjNzgwYjc0MyIsImNyZWF0ZWQiOjE2Mzc5MzUxNTg5NDMsImV4aXN0aW5nIjp0cnVlfQ=="
+_gid	
+"GA1.3.1196351317.1643095860"
+_dc_gtm_UA-27129836-1	
+"1"
+_hjIncludedInSessionSample	
+"0"
+_hjSession_1393628	
+"eyJpZCI6IjcxMGJjNzgyLWZjNzQtNGZkOS05NjgzLTcyYzlmYjVhOGQ3NCIsImNyZWF0ZWQiOjE2NDMwOTU4NjA0NDgsImluU2FtcGxlIjpmYWxzZX0="
+_hjAbsoluteSessionInProgress	
+"0"
+XSRF-TOKEN	
+"eyJpdiI6Imk4eXhKZkpYMXY4Vml3SGdXcTZuN2c9PSIsInZhbHVlIjoidFJNUXZzR1VJYlBTTCtkYVFMUnkxdlNSUVRFWE9VcUtQTWhhSElhSUdLOGdsemlxTW55dVFLcGd2NnlEWHAyaGpZZzJxN3FYN3QwK01i ▶"
+laravel_session	
+"eyJpdiI6InIzRlFrV2VzQ1hGVEhmWnZQZEU3bmc9PSIsInZhbHVlIjoid0NvSGhneVR1ekRIUUxRY2RhVzBueG1CeWNlSFNRc3Uzd0ViNWNHT1RrblNlQVhaRW9nQkQ5MzJGSjZtcE5NaFdJUHZUQjQ5VVhDdnpV ▶"
+Session empty
+Server/Request Data
+CONTEXT_DOCUMENT_ROOT	
+"/home/vaultadmin/public_html"
+CONTEXT_PREFIX	
+""
+DOCUMENT_ROOT	
+"/home/vaultadmin/public_html"
+GATEWAY_INTERFACE	
+"CGI/1.1"
+HTTPS	
+"on"
+HTTP_ACCEPT	
+"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+HTTP_ACCEPT_ENCODING	
+"gzip, deflate, br"
+HTTP_ACCEPT_LANGUAGE	
+"en-GB,en;q=0.9,en-US;q=0.8"
+HTTP_CONNECTION	
+"keep-alive"
+HTTP_COOKIE	
+"_ga=GA1.3.1321896384.1637935159; _hjSessionUser_1393628=eyJpZCI6ImI2NGNjYmQ3LTFjYmItNWEyYy04N2VlLWRjNDRjNzgwYjc0MyIsImNyZWF0ZWQiOjE2Mzc5MzUxNTg5NDMsImV4aXN0aW5n ▶"
+HTTP_HOST	
+"www.decofurnsa.co.za"
+HTTP_REFERER	
+"https://www.decofurnsa.co.za/shop/sale"
+HTTP_SEC_CH_UA	
+"" Not A;Brand";v="99", "Chromium";v="96", "Microsoft Edge";v="96""
+HTTP_SEC_CH_UA_MOBILE	
+"?0"
+HTTP_SEC_CH_UA_PLATFORM	
+""macOS""
+HTTP_SEC_FETCH_DEST	
+"document"
+HTTP_SEC_FETCH_MODE	
+"navigate"
+HTTP_SEC_FETCH_SITE	
+"same-origin"
+HTTP_SEC_FETCH_USER	
+"?1"
+HTTP_UPGRADE_INSECURE_REQUESTS	
+"1"
+HTTP_USER_AGENT	
+"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.41"
+HTTP_X_HTTPS	
+"1"
+PATH	
+"/bin:/usr/bin"
+PHP_INI_SCAN_DIR	
+"/opt/cpanel/ea-php80/root/etc:/opt/cpanel/ea-php80/root/etc/php.d:."
+QUERY_STRING	
+"categories%5B%5D=19&categories%5B%5D=29&categories%5B%5D=42&categories%5B%5D=1&categories%5B%5D=84&categories%5B%5D=8&min_price=55&max_price=20955&filter_2=&fil ▶"
+REDIRECT_HTTPS	
+"on"
+REDIRECT_QUERY_STRING	
+"categories%5B%5D=19&categories%5B%5D=29&categories%5B%5D=42&categories%5B%5D=1&categories%5B%5D=84&categories%5B%5D=8&min_price=55&max_price=20955&filter_2=&fil ▶"
+REDIRECT_SCRIPT_URI	
+"https://www.decofurnsa.co.za/shop/sale"
+REDIRECT_SCRIPT_URL	
+"/shop/sale"
+REDIRECT_SSL_TLS_SNI	
+"www.decofurnsa.co.za"
+REDIRECT_STATUS	
+"200"
+REDIRECT_UNIQUE_ID	
+"Ye-nXj2uSC66npMWva2WPAAAAZs"
+REDIRECT_URL	
+"/shop/sale"
+REMOTE_ADDR	
+"102.182.217.161"
+REMOTE_PORT	
+"58872"
+REQUEST_METHOD	
+"GET"
+REQUEST_SCHEME	
+"https"
+REQUEST_URI	
+"/shop/sale?categories%5B%5D=19&categories%5B%5D=29&categories%5B%5D=42&categories%5B%5D=1&categories%5B%5D=84&categories%5B%5D=8&min_price=55&max_price=20955&fi ▶"
+SCRIPT_FILENAME	
+"/home/vaultadmin/public_html/index.php"
+SCRIPT_NAME	
+"/index.php"
+SCRIPT_URI	
+"https://www.decofurnsa.co.za/shop/sale"
+SCRIPT_URL	
+"/shop/sale"
+SERVER_ADDR	
+"196.41.127.60"
+SERVER_ADMIN	
+"webmaster@decofurnsa.co.za"
+SERVER_NAME	
+"www.decofurnsa.co.za"
+SERVER_PORT	
+"443"
+SERVER_PROTOCOL	
+"HTTP/1.1"
+SERVER_SIGNATURE	
+""
+SERVER_SOFTWARE	
+"Apache"
+SSL_TLS_SNI	
+"www.decofurnsa.co.za"
+TZ	
+"Africa/Johannesburg"
+UNIQUE_ID	
+"Ye-nXj2uSC66npMWva2WPAAAAZs"
+PHP_SELF	
+"/index.php"
+REQUEST_TIME_FLOAT	
+1643095902.4337
+REQUEST_TIME	
+1643095902
+argv	
+array:1 [▶]
+argc	
+1
+APP_NAME	
+"Laravel"
+APP_ENV	
+"local"
+APP_KEY	
+"base64:K0o5z5yvSyo9BabrmwDKXJYQmF8oew78Gs0znlOxVuk="
+APP_DEBUG	
+"true"
+APP_LOG_LEVEL	
+"debug"
+DB_CONNECTION	
+"mongodb"
+DB_HOST	
+"127.0.0.1"
+DB_PORT	
+"27017"
+DB_DATABASE	
+"vault_core"
+DB_USERNAME	
+""
+DB_PASSWORD	
+""
+GOOGLE_RECAPTCHA_CLIENT_KEY	
+"6Lf-ct4ZAAAAAMKTDNhJOz9zUNMgsX9Dwz-mQgpw"
+GOOGLE_RECAPTCHA_SECRET_KEY	
+"6Lf-ct4ZAAAAALVdEP7j6Zj7YFonP96S2ThU-ghE"
+Environment Variables
+APP_NAME	
+"Laravel"
+APP_ENV	
+"local"
+APP_KEY	
+"base64:K0o5z5yvSyo9BabrmwDKXJYQmF8oew78Gs0znlOxVuk="
+APP_DEBUG	
+"true"
+APP_LOG_LEVEL	
+"debug"
+DB_CONNECTION	
+"mongodb"
+DB_HOST	
+"127.0.0.1"
+DB_PORT	
+"27017"
+DB_DATABASE	
+"vault_core"
+DB_USERNAME	
+""
+DB_PASSWORD	
+""
+GOOGLE_RECAPTCHA_CLIENT_KEY	
+"6Lf-ct4ZAAAAAMKTDNhJOz9zUNMgsX9Dwz-mQgpw"
+GOOGLE_RECAPTCHA_SECRET_KEY	
+"6Lf-ct4ZAAAAALVdEP7j6Zj7YFonP96S2ThU-ghE"
+Registered Handlers
+0. Whoops\Handler\PrettyPageHandler
+
+

@@ -31,7 +31,7 @@ export default {
 
         const formData = reactive({
             name: '',
-            permissions: []
+            permissions: [] as number[],
         });
 
         const permissionList = ref([]);

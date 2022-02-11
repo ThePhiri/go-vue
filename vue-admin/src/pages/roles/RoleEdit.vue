@@ -44,7 +44,7 @@ export default {
 
     const formData = reactive({
       name: "",
-      permissions: [],
+      permissions: [] as number[],
     });
 
     const permissionList = ref([]);
@@ -68,7 +68,7 @@ export default {
     };
 
     const submit = async () => {
-      await axios.post("roles", formData);
+      await axios.put(`roles/${params.id}`, formData);
 
       await push("/roles");
     };
